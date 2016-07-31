@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>florida.kml</name>
+	<Style id="sh_pink-blank">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_pink-blank">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/pink-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_pink-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_pink-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_pink-blank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>florida</name>
+		<open>1</open>
+		<Placemark>
+			<name>Walt Disney World Resort</name>
+			<description><![CDATA[<img src="http://blogs.c.yimg.jp/res/blog-f8-99/mizukoshi3598/folder/623244/00/18156400/img_0"/>
+<br>
+<br>
+
+<img src="http://tdrnavi.jp/resource/i/blog/rx_620/7ffa3e9d01d40eeb90d6ab496127d549.jpg"/>
+
+<br>
+<br>
+<img src="http://tdrnavi.jp/resource/i/blog/rx_620/18425c51d52754e48d88320fa839a53d.jpg"/><img src="http://tdrnavi.jp/resource/i/blog/rx_620/d70eb84f6c05b808dfcea7763fbff85e.jpg"/>
+<br>
+<br>
+
+ラプンツェルの塔と街がある神の世界。永住したい。]]></description>
+			<LookAt>
+				<longitude>-81.54730526951434</longitude>
+				<latitude>28.37509104065659</latitude>
+				<altitude>0</altitude>
+				<heading>0.006686864733505791</heading>
+				<tilt>26.11778541886336</tilt>
+				<range>851.7418959963264</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-81.54944389520827,28.37416261265289,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Universal Studios Florida</name>
+			<description><![CDATA[<img src="http://livedoor.blogimg.jp/acaikirin/imgs/8/a/8a22c334.jpg"/>]]></description>
+			<LookAt>
+				<longitude>-81.4676350303653</longitude>
+				<latitude>28.47623882826043</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0005508712122877837</heading>
+				<tilt>0</tilt>
+				<range>1787.018042720044</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-81.47016629049922,28.47257058064004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>University of Central Florida</name>
+			<description><![CDATA[<img src="http://inlikeme.com/wp-content/uploads/2012/05/ucf_campus.jpg"/>]]></description>
+			<LookAt>
+				<longitude>-81.20006103267912</longitude>
+				<latitude>28.60242605682239</latitude>
+				<altitude>0</altitude>
+				<heading>6.83633467593493e-007</heading>
+				<tilt>0</tilt>
+				<range>1028.214857939615</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-81.20006103267913,28.60242605682239,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kennedy Space Center</name>
+			<description><![CDATA[<img src="http://www.cc.seikei.ac.jp/~ue143260/%E3%82%B1%E3%83%8D.jpg"/>]]></description>
+			<LookAt>
+				<longitude>-80.64898079879676</longitude>
+				<latitude>28.57287220084715</latitude>
+				<altitude>0</altitude>
+				<heading>5.754474217144793e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000013197014</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-80.64898079879676,28.57287220084715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Miami</name>
+			<description><![CDATA[<img src="http://www.miamizimopy.com/DSC021401.jpg"/>]]></description>
+			<LookAt>
+				<longitude>-80.22252553728406</longitude>
+				<latitude>25.77878129156411</latitude>
+				<altitude>0</altitude>
+				<heading>0.001486947338802629</heading>
+				<tilt>0.8154630885533979</tilt>
+				<range>17148.75343618563</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-80.19092053065555,25.75825174978879,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fort Lauderdale</name>
+			<description><![CDATA[<img src="https://s3.amazonaws.com/mediavault.le/media/2d98b3c3f0d87ccc4e213888fdc7fef0004ff816.jpeg"/>]]></description>
+			<LookAt>
+				<longitude>-80.13731739961827</longitude>
+				<latitude>26.12243859613385</latitude>
+				<altitude>0</altitude>
+				<heading>1.680501725658175e-010</heading>
+				<tilt>0</tilt>
+				<range>26639.48772409026</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-80.13716275092602,26.11827286990928,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Discovery Cove</name>
+			<description><![CDATA[<img src="https://retrip.s3.amazonaws.com/article/28789/images/28789d1fb19f4-75a3-4ca6-b462-1e4842f6767d_m.jpg"/>
+
+人工の海とビーチがあり、イルカや熱帯魚とと一緒に泳ぐことができる！]]></description>
+			<LookAt>
+				<longitude>-81.45569702330062</longitude>
+				<latitude>28.40093568311323</latitude>
+				<altitude>0</altitude>
+				<heading>0.001721679774551411</heading>
+				<tilt>0</tilt>
+				<range>4524.977667027062</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-81.45974298936021,28.40494253037674,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. Petersburg</name>
+			<description><![CDATA[<img src="http://salvador-dali.jp/images/pc/museum/img_museum2.png"/>
+
+フロリダ州内ではマイアミに次ぐ大都市。観光スポットが多数ある。ここにあるサルバドール・ダリ美術館はヨーロッパを除いてコレクションは最多である。
+
+オーランドから車で二時間半。]]></description>
+			<LookAt>
+				<longitude>-82.62829822974062</longitude>
+				<latitude>27.75045521434078</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001388769919006419</heading>
+				<tilt>28.74646026536444</tilt>
+				<range>800.7536963071069</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_pink-blank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-82.62878625427787,27.75145033360511,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
